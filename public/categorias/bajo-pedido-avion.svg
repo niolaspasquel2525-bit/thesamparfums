@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" role="img" aria-label="Avión: pedidos internacionales">
+  <rect width="400" height="500" fill="#ffffff"/>
+  <path d="M40 400 Q150 330 250 300" fill="none" stroke="#B4924C" stroke-width="3" stroke-linecap="round" stroke-dasharray="2 12"/>
+  <circle cx="40" cy="400" r="6" fill="#B4924C"/>
+  <g transform="translate(270 250) rotate(-28) scale(1.5)" fill="#2a2418">
+    <path d="M-60 0 Q-60 -9 -48 -9 H48 Q70 -9 78 0 Q70 9 48 9 H-48 Q-60 9 -60 0Z"/>
+    <path d="M-8 -6 L-34 -52 H-20 L22 -6Z"/>
+    <path d="M-8 6 L-34 52 H-20 L22 6Z"/>
+    <path d="M-52 -6 L-64 -26 H-54 L-34 -6Z"/>
+    <path d="M-52 6 L-64 26 H-54 L-34 6Z"/>
+  </g>
+</svg>

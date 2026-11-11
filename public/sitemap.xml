@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://thesamparfums.vercel.app/</loc><priority>1.0</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo</loc><priority>0.9</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Mujer</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Hombre</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Unisex</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=%C3%81rabes</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Nicho</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Dise%C3%B1ador</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Artesanal</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Botellas%20completas</loc><priority>0.7</priority></url>
+  <url><loc>https://thesamparfums.vercel.app/catalogo?categoria=Bajo%20pedido</loc><priority>0.7</priority></url>
+</urlset>
