@@ -85,8 +85,8 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         name: "viewport",
         content: "width=device-width, initial-scale=1, viewport-fit=cover",
       },
-      { name: "theme-color", content: "#FAF7F2" },
-      { name: "color-scheme", content: "light" },
+      { name: "theme-color", content: "#0B0A0C" },
+      { name: "color-scheme", content: "dark" },
       { title: "The Sam Parfums" },
       {
         name: "description",

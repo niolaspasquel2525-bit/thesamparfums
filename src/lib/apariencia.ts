@@ -40,10 +40,10 @@ export type ConfiguracionSitio = {
 export const COLORES_TEMA_OSCURO = ["#050504", "#F4EFE4", "#B4924C", "#D4B26A"];
 
 export const CONFIG_SITIO_DEFAULT: ConfiguracionSitio = {
-  color_fondo: "#FAF7F2",
-  color_texto: "#141311",
-  color_dorado: "#9C1F5C",
-  color_dorado_claro: "#B4256B",
+  color_fondo: "#0B0A0C",
+  color_texto: "#F4EFE8",
+  color_dorado: "#D43F8D",
+  color_dorado_claro: "#E6679F",
   tipografia: "garamond_manrope",
   catalogo_titulo: "Catálogo",
   catalogo_descripcion: "Perfumes árabes, de diseñador y nicho, 100% originales.",
